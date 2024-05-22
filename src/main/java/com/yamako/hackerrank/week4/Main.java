@@ -5,7 +5,8 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<Integer> a = Arrays.asList(4, 6, 5, 3, 3, 1);
-        System.out.println(Result_PickingNumbers.pickingNumbers(a));
+        int k = 54;
+        List<Integer> a = Arrays.asList(1,2,3,4,5);
+        System.out.println(Result_LeftRotation.rotateLeft(k, a));
     }
 }
