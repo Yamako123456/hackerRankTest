@@ -9,9 +9,10 @@ public class Main {
         int u = 729771;
         int e = 591431;
         int f = 24;
-        String s = "4294967295000102003004005";
+        String s = "a.A&z-Z";
         List<Integer> a = Arrays.asList(1,20,300,2,5);
-        System.out.println(Result_MinimumAbsoluteDifferenceInAnArray.minimumAbsoluteDifference(a));
+        System.out.println(s);
+        System.out.println(Result_CesarCipher.caesarCipher(s, 1));
     }
 }
 /*
