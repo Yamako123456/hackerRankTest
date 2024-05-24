@@ -10,8 +10,8 @@ public class Main {
         int e = 591431;
         int f = 24;
         String s = "4294967295000102003004005";
-        List<Integer> a = Arrays.asList(1,2,3,4,5);
-        System.out.println(Result_TowerBreakers.towerBreakers(u, e));
+        List<Integer> a = Arrays.asList(1,20,300,2,5);
+        System.out.println(Result_MinimumAbsoluteDifferenceInAnArray.minimumAbsoluteDifference(a));
     }
 }
 /*
